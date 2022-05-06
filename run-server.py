@@ -2,7 +2,6 @@
 
 # TODO: Setup JSON Schema
 
-from cmath import log
 import os, sys, json, string
 from time import time
 
