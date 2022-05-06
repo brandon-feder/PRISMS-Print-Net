@@ -1,0 +1,17 @@
+{
+    "name": "PRISMS-Print-Net",
+    "version": "0.0.1",
+    "description": "Making 3D printing easier at PRISMS",
+    "main": "server.js",
+  
+    "scripts": {
+      "start": "node server.js"
+    },
+  
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/brandon-feder/PRISMS-Print-Net.git"
+    },
+  
+    "dependencies": {}
+  }
